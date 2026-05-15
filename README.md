@@ -21,4 +21,4 @@ All notebooks require **Wolfram Mathematica 13.0 or later**.
 - The figure notebooks (`1a.nb` through `12a-12b.nb`) produce the plots shown in the article; they assume the corresponding data structures have been generated or are loaded from `Results-Data.nb`.
 
 ## Data Availability
-The data and code that support the findings of this article are openly available in Zenodo at `` .
+The data and code that support the findings of this article are openly available in Zenodo at `doi.org/10.5281/zenodo.20200103` .
